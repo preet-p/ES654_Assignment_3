@@ -1,0 +1,6 @@
+VGG1 PyPlot - The accuracies for train and test datasets are varying till 12 epochs and then the model becomes stable and closer to 100% accuarcy (stops learning)
+
+VGG1 with Data Augmentation PyPlot - Data Augmnetation artificially expands the dataset. Hence, the model is capable of learning even after 20 epochs.
+			Since, the model is still learning the accuracies for train and test datasets are still varying with the number of epochs, eventually converging to 100% accuracy.
+ 
+Transfer Learning PyPlot - We can clearly see that the model fits the dataset quickly (2 epochs). Hence, we could perhaps regularize the model or provide a variety of datasets to increase the learning.
