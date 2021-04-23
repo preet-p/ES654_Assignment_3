@@ -1,4 +1,0 @@
-Time Complexitiy for "leanring" Logistic Regression - O(n) -- due to summation
-Space Complexity for "learning" Logistic Regression - O(nw) -- X(nxw), y(n), W(w), b(1)
-Time Complexitiy for "predicting" Logistic Regression - O(nw) -- XxW
-Space Complexity for "predicting" Logistic Regression - O(nw) -- X(nxw), W(w), b(1)
